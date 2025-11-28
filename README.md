@@ -72,7 +72,7 @@ Always follow safety protocol.
 
 📷 Project Images
 
-(Add photos here soon)
+![Wiring Diagram](diagrams/wiring.png1)
 
 📁 Project Structure
 Gas-Leakage-Detection-System/
